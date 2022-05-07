@@ -12,6 +12,8 @@ The Sender Policy Framework (SPF) is an email-authentication technique which is 
 ### DMARC
 Domain-based Message Authentication Reporting and Conformance (DMARC) is a free and open technical specification that is used to authenticate an email by aligning SPF and DKIM mechanisms. By having DMARC in place, domain owners large and small can fight business email compromise, phishing and spoofing
 
+<img src="1.png"> <br>
+
 ```
 ex : mailchimp.com
 -domain = mailchimp.com
