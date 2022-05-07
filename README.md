@@ -1,6 +1,7 @@
 # Email Checker Tool with Golang
 
 Checking MX,SPF,DMARC Mail with built-in library go
+
 By checking these we will know if the domain is at least right
 
 ### MX
